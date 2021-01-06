@@ -1,5 +1,5 @@
 # Imane Farhat
-I am currently a third year student at Ecole Polytechnique majoring in Applied Mathematics. You can find my CV [here](ImaneFarhat.github.io/CV Imane Farhat.pdf) (Last updated October 1st 2019). 
+I am currently a Graduate student at MIT majoring in Data Science and Analytics. You can find my CV [here](ImaneFarhat.github.io/Imane Farhat v8.pdf) (Last updated October 1st 2020). 
 
 ## Research projects
 
