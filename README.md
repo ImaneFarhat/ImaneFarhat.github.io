@@ -24,7 +24,7 @@ _Advisor: [Mathieu Rosenbaum](http://www.crest.fr/ses.php?user=3046) ([Report](I
   - Studied the modeling of the volatility clustering effect with Poisson processes and Hawkes processes.
   
 * **On multi-currency arbitrage on FX options and calibration of a Wishart model**
-_Advisor: [Peter Tankov](https://www.lpsm.paris/pageperso/tankov/) ([Report](ImaneFarhat.github.io/P3A___Rapport_Final.pdf))._
+_Advisor: [Peter Tankov](https://www.lpsm.paris/pageperso/tankov/) ([Report](ImaneFarhat.github.io/P3A__Rapport_Final.pdf))._
   - Explored a model-free approach to detect arbitrage opportunities on FX options related to a triangle of exchange rates, for example options on the rates USD/EUR, JPY/EUR and JPY/USD. 
   - Calibrating the Wishart model for a triangle of exchange rates. 
   
